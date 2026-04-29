@@ -1,3 +1,6 @@
+# la-catrina-grill
+“React restaurant website for Web Dev class.”
+
 # Restaurant Starter Project 🍽️
 
 A React + Vite starter template for the Web Development restaurant project.
