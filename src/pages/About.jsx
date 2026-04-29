@@ -41,22 +41,22 @@ function About() {
         <h2>Meet the Team</h2>
         <div className="team-grid">
           <div className="team-card">
-            <div className="team-avatar">👨‍🍳</div>
-            <h3>[Team Member 1 Name]</h3>
-            <p className="role">[Their Role]</p>
-            <p>[A 1-2 sentence bio about this person.]</p>
-          </div>
-          <div className="team-card">
-            <div className="team-avatar">👩‍💼</div>
-            <h3>[Team Member 2 Name]</h3>
-            <p className="role">[Their Role]</p>
-            <p>[A 1-2 sentence bio about this person.]</p>
+            <div className="team-avatar">👨🏾‍💼</div>
+            <h3>[Damian Armond]</h3>
+            <p className="role">[Manager]</p>
+            <p>[Damian is the passionate manager who ensures every detail of La Catrina Grill runs smoothly, bringing his culinary expertise and dedication to the heart of the restaurant.]</p>
           </div>
           <div className="team-card">
             <div className="team-avatar">👨‍🍳</div>
-            <h3>[Team Member 3 Name]</h3>
-            <p className="role">[Their Role]</p>
-            <p>[A 1-2 sentence bio about this person.]</p>
+            <h3>[Sam Williams]</h3>
+            <p className="role">[Head Chef]</p>
+            <p>[Sam is the talented head chef at La Catrina Grill, responsible for creating the bold and authentic Mexican dishes that define the restaurant's menu.]</p>
+          </div>
+          <div className="team-card">
+            <div className="team-avatar">👨</div>
+            <h3>[Tray Johnson]</h3>
+            <p className="role">[Server]</p>
+            <p>[Tray is the friendly server at La Catrina Grill, known for his warm personality and exceptional customer service.]</p>
           </div>
         </div>
       </div>
